@@ -1,2 +1,8 @@
-# formate
-formate of c cpp
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+getch();
+}
+
